@@ -5,7 +5,7 @@
 - run `npm ci`
 - run `npm run start`
 - run `curl http://localhost:3000`
-- `trace_id` and `span_id` of the http span are properly added to the span logged to the console
+- `trace_id` and `span_id` of the http span are properly added to the log that's logged to the console
 
 Sample output:
 

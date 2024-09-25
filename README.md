@@ -1,4 +1,4 @@
-# reprodcuer for https://github.com/open-telemetry/opentelemetry-js/issues/5001
+# reproducer for https://github.com/open-telemetry/opentelemetry-js/issues/5001
 
 ## How to use
 
